@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "esp_task_wdt.h": "c",
+        "stdbool.h": "c"
+    }
+}

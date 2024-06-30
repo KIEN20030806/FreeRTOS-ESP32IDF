@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/bai6/eventflag/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/CMakeFiles/bootloader
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/CMakeFiles/bootloader.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/CMakeFiles/bootloader-complete.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/espressif_ins/Espressif/frameworks/esp-idf-v5.2.1/examples/get-started/Video_5/binary/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
